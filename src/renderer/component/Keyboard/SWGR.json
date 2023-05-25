@@ -1746,7 +1746,7 @@
       "No key",
       "There's no function or character assigned to that key.",
       "Transparent",
-      "The key has the same function as in the previous layer.",
+      "The function of this key will be inherited from the layer you are coming from.",
       "One-Shot Modifiers and Layers",
       "It has 3 functionalities:",
       "1. Hold the key to activate the modifier (Control, Shift, etc).",

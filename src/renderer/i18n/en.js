@@ -235,7 +235,7 @@ const English = {
       noKeyDescription: "There's no function or character assigned to that key.",
       transparent: "Transparent",
       trans: "Trans.",
-      transparentDescription: "There's no function or character assigned to that key.",
+      transparentDescription: "The function of this key will be inherited from the layer you are coming from.",
       keys: {
         keys: "Keys",
         standardViewTitle: "Select a key",
